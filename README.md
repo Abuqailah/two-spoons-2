@@ -1,0 +1,1 @@
+This is the html only project for C4H in which we have to build a 6 page site for two spoons restaurant. I will be adding classes, ids etc so that I can add css and js as needed down the road in oder to make it a fully functional website for my portfolio.
